@@ -1,4 +1,15 @@
-﻿# Emy - The Virtual Model for Clothing Fitting
+---
+title: Amazon
+emoji: 🌍
+colorFrom: pink
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.36.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
+ # Emy - The Virtual Model for Clothing Fitting
 Demo models for clothing fitting use advanced algorithms and data analysis techniques to accurately predict how a garment will fit on a particular body type. These virtual models, like Emy, offer a range of benefits over traditional human models.
 
 
